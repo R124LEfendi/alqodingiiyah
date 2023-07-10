@@ -1,0 +1,27 @@
+.containerBox {
+  background-color: #1ac073;
+  text-align: center;
+  height: auto;
+}
+
+.title {
+  color: white;
+  margin: 12%;
+  font-family: "Montserrat";
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 49px;
+}
+
+.footer {
+  color: #4d4d4d;
+  font-family: "Montserrat";
+  font-style: normal;
+  text-align: center;
+  margin-bottom: 5%;
+  margin-top: 15%;
+}
+
+.containerInput {
+  padding: 4%;
+}

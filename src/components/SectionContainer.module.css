@@ -1,0 +1,17 @@
+@media only screen and (min-width: 992px) {
+  .container {
+    padding: 90px;
+  }
+}
+/* TABLET */
+@media only screen and (max-width: 992px) {
+  .container {
+    padding: 40px;
+  }
+}
+/* PHONE */
+@media only screen and (max-width: 480px) {
+  .container {
+    padding: 24px 8px;
+  }
+}

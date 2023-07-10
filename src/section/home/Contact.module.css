@@ -1,0 +1,25 @@
+.container {
+  background-color: transparent;
+  height: 200px;
+}
+
+.text {
+  align-items: center;
+  background-color: transparent;
+  margin-left: 10px;
+  padding: 0 5px 10px 0;
+}
+
+.field {
+  background-color: transparent;
+  margin: 5px 0 0 80px;
+  padding: 10px 0 0 0;
+}
+
+.fieldColor {
+  background-color: white;
+}
+
+.img{
+  width: 100%;
+}

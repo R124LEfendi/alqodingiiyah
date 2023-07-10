@@ -1,0 +1,92 @@
+.container {
+  display: flex;
+  width: 100%;
+  background-color: #1ac073;
+  height: 170px;
+  justify-content: center;
+}
+
+.container p {
+  color: white;
+}
+
+.sect {
+  width: 100%;
+}
+.logo {
+  color: white;
+  font-size: 35px;
+  letter-spacing: 1px;
+  cursor: pointer;
+}
+
+.picBcg {
+  height: 140px;
+  width: 100%;
+  background-size: cover;
+  background-position: cente;
+}
+
+nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+span {
+  color: rgb(250, 140, 6);
+}
+
+nav ul li {
+  list-style-type: none;
+  display: inline-block;
+  padding: 10px 25px;
+}
+
+nav ul li a {
+  color: white;
+  text-decoration: none;
+  text-transform: capitalize;
+}
+
+nav ul li a:hover {
+  color: #fad762;
+  transition: 0.4s;
+}
+
+.social {
+  display: flex;
+  background-color: aliceblue;
+  width: 30px;
+  height: 30px;
+  border-radius: 7px;
+  margin: 5px;
+  cursor: pointer;
+}
+
+.facebook {
+  padding: 6px 2px 4px 10px;
+  width: 12px;
+}
+
+.insta {
+  width: 20px;
+  height: 20px;
+  padding: 6px;
+}
+
+.sosmed {
+  display: flex;
+}
+
+.copy {
+  text-align: center;
+  padding: 20px 0 0 20px;
+}
+
+.line {
+  background-color: white;
+  width: 84.6%;
+  height: 2px;
+  margin-left: 7.4%;
+}

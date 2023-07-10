@@ -1,0 +1,33 @@
+.titleInput {
+  margin-top: 10%;
+  font-weight: 700;
+  font-family: "Montserrat";
+  font-size: 40px;
+  white-space: nowrap;
+}
+
+.register {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 24px;
+  color: #757575;
+  margin-top: 10%;
+}
+
+.input {
+  margin-top: 20px;
+}
+
+.form {
+  margin: 20%;
+  background-color: white;
+  width: 60%;
+}
+
+@media only screen and (max-width: 600px) {
+  .form {
+    width: 100%;
+  }
+}

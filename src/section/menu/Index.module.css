@@ -1,0 +1,28 @@
+.containerItem {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  text-align: left;
+  border-radius: 8px;
+}
+
+.images {
+  width: 292px;
+  height: 174px;
+}
+
+.title {
+  width: 212px;
+  height: 55px;
+  font-family: "Mulish";
+  font-style: normal;
+  color: #667085;
+  display: inline-block;
+}
+
+.description {
+  width: 212px;
+  height: 55px;
+  font-style: normal;
+  display: inline-block;
+}
